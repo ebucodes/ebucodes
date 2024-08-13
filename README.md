@@ -1,2 +1,2 @@
-# ebocodes
-My personal bio
+# ebucodes
+My bio
