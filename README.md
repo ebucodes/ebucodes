@@ -21,18 +21,6 @@ Welcome to my GitHub profile!
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-(Add or remove any tools that are relevant to you)
-
-## 📈 GitHub Stats
-
-![Ebucodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebucodes&show_icons=true&theme=radical)
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) (replace with your actual LinkedIn)
-- [Twitter](https://twitter.com/yourprofile) (replace with your actual Twitter, if any)
-- [Personal Website](https://yourwebsite.com) (optional)
-
 ---
 
 Thanks for visiting my profile! Have a great day! 🚀
