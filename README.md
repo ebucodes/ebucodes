@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🌱 Currently exploring advanced ML algorithms and scalable backend architectures.
 - 👯 I'm looking to collaborate on innovative software projects and data-driven solutions.
 - 💬 Ask me about backend development, API design, data science, and machine learning!
-- 📫 How to reach me: [ebucodes@example.com](mailto:ebucodes@gmail.com) (replace with your actual email)
+- 📫 How to reach me: [ebucodes@gmail.com](mailto:ebucodes@gmail.com) (replace with your actual email)
 - ⚡ Fun fact: I love turning data into actionable insights and building scalable systems!
 
 ## 🛠️ Tech Stack & Skills
